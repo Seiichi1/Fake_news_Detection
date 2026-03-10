@@ -1,0 +1,26 @@
+
+# Environment
+.venv*/
+__pycache__/
+*.pyc
+
+# Data
+data/
+WELFake_Dataset.csv.zip
+*.csv
+*.zip
+
+# Model Binaries
+*.bin
+*.pth
+*.h5
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Reports/Binaries (Optional: Move to docs/ or keep if needed)
+*.docx
+*.pptx
+*.png
